@@ -37,7 +37,8 @@ My current focus is on utilizing remote sensing to investigate photovoltaic (PV)
 * Multisource Spatiotemporal Data Analysis for SDGs
 
 # Educations
-
+- *2015.09 - 2019.06*, Bachelor's Degree in Internet of Things Engineering, School of Software, Zhengzhou University.
+- *2015.09 - now*, Master's Degree Candidate in Electronics and Information Engineering, LIESMARS, Wuhan University.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
